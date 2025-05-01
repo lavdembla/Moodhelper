@@ -1,0 +1,33 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 100px;
+  transition: background-color 0.5s ease;
+}
+
+.container {
+  background-color: white;
+  padding: 30px;
+  margin: auto;
+  width: 320px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+select, button {
+  margin-top: 20px;
+  padding: 10px;
+  width: 100%;
+}
+
+.suggestion-box {
+  margin-top: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.mood-icon {
+  font-size: 40px;
+  margin-top: 20px;
+}
